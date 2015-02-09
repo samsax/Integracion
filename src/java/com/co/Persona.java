@@ -13,5 +13,6 @@ public class Persona {
     
     private String name;
     private int age;
+    private int cedula;
     
 }
